@@ -1,0 +1,1293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"loca",
+				"location_array"
+			],
+			[
+				"p",
+				"p"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"audi",
+				"audioplayer"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"overflw",
+				"overflow-x"
+			],
+			[
+				"center",
+				"center"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"translate",
+				"translate3d"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"AM",
+				"AMail"
+			],
+			[
+				"titleCase",
+				"titleCaseFilter"
+			],
+			[
+				"total",
+				"totalCart"
+			],
+			[
+				"Cart",
+				"CartController"
+			],
+			[
+				"Restaurant",
+				"RestaurantTableController"
+			],
+			[
+				"bacg",
+				"background-color"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"c",
+				"captions"
+			],
+			[
+				"backgroud",
+				"background-color"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"sty",
+				"stylesheet"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"requ",
+				"requireMain"
+			],
+			[
+				"require",
+				"requireMain"
+			],
+			[
+				"as",
+				"assetAttr"
+			],
+			[
+				"path",
+				"pathList"
+			],
+			[
+				"con",
+				"configuration"
+			],
+			[
+				"inser",
+				"insertionChild"
+			],
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"child",
+				"childElementCount"
+			],
+			[
+				"ch",
+				"catch"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"NS_",
+				"NS_DELETION"
+			],
+			[
+				"NS",
+				"NS_INSERTION"
+			],
+			[
+				"appl",
+				"applyOverrideToElement"
+			],
+			[
+				"att",
+				"attributes"
+			],
+			[
+				"a",
+				"attribute"
+			],
+			[
+				"get",
+				"getAttributeNodeNS"
+			],
+			[
+				"app",
+				"applyOverrideToElement"
+			],
+			[
+				"chid",
+				"children"
+			],
+			[
+				"cl",
+				"childNodes"
+			],
+			[
+				"o",
+				"overrideXML"
+			],
+			[
+				"ov",
+				"overrideXML"
+			],
+			[
+				"pro",
+				"processOverrides"
+			],
+			[
+				"ove",
+				"override"
+			],
+			[
+				"Cours",
+				"CoursewareController"
+			],
+			[
+				"config",
+				"configuration"
+			],
+			[
+				"from",
+				"fromParams"
+			],
+			[
+				"to",
+				"toParams"
+			],
+			[
+				"coten",
+				"content_root"
+			],
+			[
+				"cont",
+				"content_root"
+			],
+			[
+				"confi",
+				"configuration"
+			],
+			[
+				"cone",
+				"content_root"
+			],
+			[
+				"root",
+				"rootScope"
+			],
+			[
+				"page",
+				"pageID"
+			],
+			[
+				"pr",
+				"promise"
+			],
+			[
+				"content",
+				"contentPath"
+			],
+			[
+				"at",
+				"attributes"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"lo",
+				"localName"
+			],
+			[
+				"n",
+				"namespaceURI"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"node",
+				"nodeType"
+			],
+			[
+				"name",
+				"namespaceURI"
+			],
+			[
+				"m",
+				"manifest"
+			],
+			[
+				"chil",
+				"children"
+			],
+			[
+				"getE",
+				"getElementsByTagName"
+			],
+			[
+				"N",
+				"NS_INSERTION"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"ne",
+				"nextParams"
+			],
+			[
+				"pA",
+				"pageID"
+			],
+			[
+				"tr",
+				"transitionComplete"
+			],
+			[
+				"next",
+				"nextParams"
+			],
+			[
+				"nex",
+				"nextParams"
+			],
+			[
+				"toS",
+				"toParams"
+			],
+			[
+				"sta",
+				"stateParams"
+			],
+			[
+				"load",
+				"loadScreen"
+			],
+			[
+				"getP",
+				"getPageLookup"
+			],
+			[
+				"modul",
+				"modules"
+			],
+			[
+				"mod",
+				"modules"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"unit",
+				"unit_pages"
+			],
+			[
+				"TG1",
+				"TG1Controller"
+			],
+			[
+				"TG",
+				"TG1Controller"
+			],
+			[
+				"scre",
+				"screen-container"
+			],
+			[
+				"templa",
+				"templateUrl"
+			],
+			[
+				"angula",
+				"angular-ui-router"
+			],
+			[
+				"Course",
+				"CourseController"
+			],
+			[
+				"contr",
+				"controllers"
+			],
+			[
+				"w",
+				"world"
+			],
+			[
+				"conte",
+				"context-challenge"
+			],
+			[
+				"ad",
+				"addFruit"
+			],
+			[
+				"cur",
+				"currentChallenge"
+			],
+			[
+				"queue",
+				"queueClip"
+			],
+			[
+				"butt",
+				"button-container"
+			],
+			[
+				"puzzles",
+				"puzzles-pipes"
+			],
+			[
+				"add",
+				"addItem"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"re",
+				"retina-background"
+			],
+			[
+				"but",
+				"button-container"
+			],
+			[
+				"compo",
+				"components"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"manu",
+				"manualMode"
+			],
+			[
+				"man",
+				"manualMode"
+			],
+			[
+				"cry",
+				"crystalsLoaded"
+			],
+			[
+				"crys",
+				"crystalLevel"
+			],
+			[
+				"t",
+				"target"
+			],
+			[
+				"tar",
+				"targets"
+			],
+			[
+				"mau",
+				"manualSelections"
+			],
+			[
+				"in",
+				"interactive"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/notes/notes.sql",
+			"settings":
+			{
+				"buffer_size": 25162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/notes/lynx_development.sql",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/data/books/books_mysql.sql",
+			"settings":
+			{
+				"buffer_size": 15462,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/SOFTWARE_INSTALLATION.txt",
+			"settings":
+			{
+				"buffer_size": 9313,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Create Package File"
+			],
+			[
+				"snippe",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/data/sampdb/postgres/sampdb.dump.psql",
+		"/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/data/books/books_mysql.sql",
+		"/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/data/sampdb/mysql/setup_sampdb.sql",
+		"/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/SOFTWARE_INSTALLATION.txt",
+		"/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/data/DATA_INSTALLATION",
+		"/Users/jason/Desktop/sql_bootcamp_setup/data/sampdb/postgres/sampdb.dump.psql",
+		"/Users/jason/Desktop/sql_bootcamp_setup/data/sampdb/mysql/setup_sampdb.sql",
+		"/Users/jason/Documents/EverQuote/Projects/lynx/db/seeds.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/views/user_mailer/greeter_email.html.erb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/views/user_mailer/greeter_email.text.erb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/views/user_mailer/reset_email.html.erb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/views/user_mailer/reset_email.text.erb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/config/env.yml",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/db/seeds.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/models/user.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/db/migrate/20150412195704_create_users.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/config/environments/development.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/config/environments/test.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/spec/requests/users_request_spec.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/.project/CMI-API.sublime-project",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/.project/build.sh",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/serializers/user_serializer.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/mailers/new_user_mailer.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/views/new_user_mailer/new_user_email.html.erb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/views/new_user_mailer/new_user_email.text.erb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/spec/models/user_spec.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/config/environments/production.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/config/environment.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/config/initializers/environment_variables.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/.gitignore",
+		"/Users/jason/Dropbox/TechDesk/bash-cli/snippets.txt",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/controllers/admin/users_controller.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/spec/spec_helper.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/.rspec",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/controllers/application_controller.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/README.md",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/.travis.yml",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/config/routes.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/spec/requests/auth_request_spec.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/app/controllers/auth_controller.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/Gemfile",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/config/application.rb",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/lib/modules/.gitkeep",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/.ruby-version",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/config.ru",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/.project/build.xml",
+		"/Users/jason/Documents/thinq/Projects/Call-Me-Ishmael/phone-api/.project",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/layout/theme.liquid",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/templates/BlogFilter.js",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/blog-posting.hubl",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/styles/EMS_custom.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/styles/hs_default_custom_style.css",
+		"/Users/jason/Documents/Stages/Projects/FreeResourceTemplate/lesson-plan.txt",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/styles/stages-letters-v.2.0.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/FreeResources.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/assets/styles-stages.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/stages-snippets.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/sorting.html",
+		"/Users/jason/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jason/.bash_profile",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/templates/index.liquid",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/templates/stages-letters-v.2.0.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/blog-listing.hubl",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/templates/product.liquid",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/assets/modernizr-touch.js",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/blog-nav-bar.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/templates/ems-custom-clone.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/nav-bar.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/templates/bsjavascript.js",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/styles/bootstrap-responsive.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/styles/bootstrap.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/templates/bootstrap-javascript.min.js",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/styles/bootstrap.min.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/styles/bootstrap-responsive.min.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/templates/bootstrap.min.js",
+		"/Users/jason/.Trash/EMS_JW_Custom-2.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/styles/EMS_JW_custom.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/templates/EMS_JW_custom-2.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/templates/EMS_JW_Custom-2.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/files/EMS_JW_custom.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/templates/collection.liquid",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/.cos-sync-config.yaml",
+		"/Users/jason/Documents/UI/libs/bootstrap/bootstrap-testing.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/captcha-filter.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/assets/hubspot-manager.js",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/templates/post-organizer.js",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/files/BlogFilter.js",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/files/post-organizer.js",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/files/test-file.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog/files/test-files.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/config/settings.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/templates/cart.liquid",
+		"/Users/jason/Desktop/fizzbuzz.rb",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/templates/article.liquid",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/templates/blog.liquid",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/snippets/hubspot-blog.liquid",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/config/settings_data.json",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/lb-pro.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/word-packs.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/lb-standard.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/reviews.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/faqs.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/commands.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/prompts.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/positioning.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/targets-distractors.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/picture-id.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/expressive-labeling.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/receptive-labeling.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/similar-matching.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/identical-matching.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/Getting-Started.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/Products.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/Support.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/App-Overview.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/templates/page.app.liquid",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/app-page.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/support.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/products.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/assets/getting-started.html",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/css/styles.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/assets/FAQ.js",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/assets/images/ui-bg_diagonals-thick_18_b81900_40x40.png",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/assets/favicon.png",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-learning-materials-8302709/assets/styles.css.liquid",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/css/styles-stages.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/css/stages-blog.css",
+		"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog-prototype/css/sandbox.css"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/jason/Documents/Stages/Projects/Stages Website/",
+			"/Users/jason/Documents/Stages/Projects/Stages Website/stages-blog",
+			"/Users/jason/Documents/Stages/Projects/Stages Website/",
+			"/Users/jason/Documents/Stages/Projects/Stages Website/shopify2/",
+			"/Users/jason/Documents/Stages/Projects/Stages Website/shopify2/stages-learning-dev-shop-8416463",
+			"/Users/jason/Documents/C4/Omega-SnowWhite",
+			"/Users/jason/Documents/C4/c4cp-web-portal/moodle/",
+			"/Users/jason/Documents/C4/Omega-SnowWhite",
+			"/Users/jason/Documents/C4/c4cp-web-portal/moodle/theme/courseware/less",
+			"/Users/jason/Documents/C4/Omega/",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/app/styles/less",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/app/",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/app/styles/less",
+			"/Users/jason/Documents/C4/Omega-SnowWhite",
+			"/Users/jason/Documents/C4/c4cp-web-portal/moodle/",
+			"/Users/jason/Documents/C4/c4cp-web-portal/moodle",
+			"/Users/jason/Documents/C4/Omega-SnowWhite",
+			"/Users/jason/Documents/C4/c4cp-web-portal",
+			"/Users/jason/Documents/C4/",
+			"/Users/jason/Documents/C4/c4cp-web-portal",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/",
+			"/Users/jason/Documents/C4/Omega-SnowWhite/app/styles/less",
+			"<open files>,/Users/jason/Documents/Center4SI/c4cp-web-portal/moodle/theme/t3courseware/less,/Users/jason/Documents/Center4SI/c4cp-web-portal/moodle/theme/t3courseware/less",
+			"<open files>,/Users/jason/Documents/Center4SI/c4cp-web-portal/moodle/theme/t3courseware/less",
+			"<open files>",
+			"<open files>,/Users/jason/Documents/Center4SI/Omega-SnowWhite/app",
+			"<open files>",
+			"/Users/jason/Documents/Center4SI/Omega-SnowWhite/app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"REFERENCES",
+			"REFERENCEs",
+			"CONCAT",
+			"DATEDIFF",
+			"first_name",
+			"gimli",
+			"#",
+			"user",
+			"/users",
+			"last_name",
+			"first_name",
+			"@user",
+			"user",
+			"firstname",
+			"#author-box",
+			"author-box",
+			"each",
+			"post-body-content",
+			"div.post-body-content::after",
+			".post-topic",
+			"div.post-topic",
+			".post-topic",
+			".post-body-content::after",
+			"div.post-body-content::after",
+			"div.post-item.topic-view div.post-body-content",
+			".post-body-content",
+			"topics",
+			"<!--",
+			"-->",
+			"<!--",
+			"content.topic_list",
+			"border-top",
+			"div#author-box",
+			"author-box",
+			"#author-box",
+			"trace",
+			"$",
+			"txt",
+			"description",
+			"\"></",
+			">\n",
+			"<a",
+			"<a\\>",
+			"\\<a\\>",
+			"<a>",
+			"header",
+			"h5",
+			"h3",
+			"app-header",
+			"img.",
+			"btn",
+			"img",
+			"#homepage_slider .slides img",
+			"#homepage_slider",
+			"div.homepage_content div.container.featurette h2",
+			"row",
+			"hr",
+			"></",
+			"section-container",
+			"translateY",
+			" \n",
+			"body",
+			"; ",
+			" %}",
+			"four",
+			".sale-banner",
+			"br.clear",
+			".clear",
+			"blog_widget_select",
+			"blog_widget",
+			"settings.blog_widget",
+			"Widgets",
+			"blog_widget",
+			"</div>\n  </div>",
+			"\n              ",
+			"()",
+			";\n",
+			"ng-model",
+			"getAdjustedPageCount",
+			";\n",
+			"mediaPlayer",
+			"console",
+			"media-player",
+			"z",
+			"@z-components",
+			"yui3-menu-content",
+			"<ul",
+			"#custom_menu_1",
+			"column",
+			"box",
+			"translate",
+			"ui-view",
+			"z-index",
+			"column",
+			"s",
+			"#login_username",
+			"@media",
+			"courseContructor",
+			"courseConstructor",
+			"courseContructor",
+			"resolve",
+			"trunk",
+			"/courseware/trunk/layout/omega/",
+			"css",
+			"console.log",
+			"menu",
+			"showSettings",
+			".retina-background",
+			".translate3d",
+			".transition",
+			".transform",
+			"translate3d",
+			".menu-icon__text {\n	    	text-indent:-9999px;\n	  	}\n",
+			"login/index.php",
+			"page-login-signup",
+			"$signup",
+			"login_info()",
+			"get_course_category_tree",
+			"<div class=\"footer\"",
+			"Create new account",
+			"tokens",
+			"#settings",
+			"section.container",
+			"bootstrap.min.css",
+			"getHtml5StyleSheets",
+			"$stylesheet",
+			"getStyleSheets",
+			"$stylesheet"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"jason",
+			"postgres",
+			"--",
+			"/admin/users",
+			"lastname",
+			"firstname",
+			"@admin_user",
+			"<h5>",
+			"a",
+			"h5",
+			"translateX",
+			"h5",
+			"translateX",
+			"",
+			"courseConstructor",
+			"courseContructor",
+			"courseConstructor",
+			"",
+			"section.main-container",
+			"",
+			"type=\"module\"",
+			"last",
+			"  ",
+			" ",
+			"html",
+			"<component id=\"\" class=\"$1\" x=\"0\" y=\"0\"/>",
+			"\\n",
+			"images/Pipes/spritesheet/pipes_animation-easljs.png",
+			"images/Pipes/spritesheet/pipes_animation-easeljs.png"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/notes/notes.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1120,
+								1120
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/notes/lynx_development.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/SQL/SQL.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/data/books/books_mysql.sql",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 15462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 62.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/jason/Desktop/desktop-items/sql_bootcamp_setup/SOFTWARE_INSTALLATION.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9266,
+								9272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.751897146423,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 159.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "CMI API Autopush",
+	"project": "sql-bootcamp.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"snippets",
+				"UI/html/HTML5 Graphics and Animation with Canvas/ExampleSnippets.txt"
+			],
+			[
+				"conte",
+				"src/client/js/classes/context.challenge.adventure.js"
+			],
+			[
+				"cotext",
+				"src/client/js/classes/context.challenge.adventure.js"
+			],
+			[
+				"adventr",
+				"www/xml/adventure.xml"
+			],
+			[
+				"adventurej",
+				"src/client/js/classes/adventure.js"
+			],
+			[
+				"pipes",
+				"src/client/js/classes/pipes.puzzles.adventure.js"
+			],
+			[
+				"udio",
+				"src/client/less/styles/udio.adventure.less"
+			],
+			[
+				"adven",
+				"src/client/js/classes/adventure.js"
+			],
+			[
+				"advent",
+				"src/client/xml/adventure.xml"
+			],
+			[
+				"ud",
+				"src/client/less/styles/udio.adventure.less"
+			],
+			[
+				"invent",
+				"src/client/js/classes/inventory.world.adventure.js"
+			],
+			[
+				"worl",
+				"src/client/js/classes/world.adventure.js"
+			],
+			[
+				"world",
+				"src/client/js/classes/world.adventure.js"
+			],
+			[
+				"sett",
+				"src/client/js/classes/settings.adventure.js"
+			],
+			[
+				"adv",
+				"src/client/xml/adventure.xml"
+			],
+			[
+				"xml",
+				"src/client/xml/adventure.xml"
+			],
+			[
+				"set",
+				"src/client/js/classes/settings.adventure.js"
+			],
+			[
+				"peddler.",
+				"src/client/js/classes/peddler.puzzles.adventure.js"
+			],
+			[
+				"",
+				"src/client/js/classes/pipes.puzzles.adventure.js"
+			],
+			[
+				"avit",
+				"src/client/js/classes/avitar.world.adventure.js"
+			],
+			[
+				"coursecon",
+				"src/xml/CourseContent.xml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

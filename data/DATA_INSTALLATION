@@ -1,0 +1,79 @@
+These instructions are for loading class data to a running MySQL database server.
+
+This is not necessary for class.  All that is needed for class is a MySQL
+database client, such as Navicat or MySQL Workbench, which can be used to
+connect to a server I will host for the class.
+
+Data is provided for two databases, 'sampdb' and 'books'.  The installation
+procedure is the same for both.
+
+
+SETUP AND LOAD FOR MYSQL
+
+- Have a working MySQL server.  See the SOFTWARE_INSTALLATION file for
+  instructions on how to do this.
+- In your client (Navicat or Workbench), open a connection to your server.
+  Instructions for this are also in SOFTWARE_INSTALLATION.
+- In the query window, navigate to the directory holding this file, then to the
+  subdirectory sampdb/mysql.  Open the file setup_sampdb.sql in your query
+  window and run this query (in MySQL Workbench, by clicking the lightning bolt
+  icon, or finding the 'Execute' command under the Query menu.)  You cannot run
+  the query from another program like Word or a text editor -- you must open
+  the file in your client's query editor, and execute that query on your
+  server.
+
+This query creates the 'schema' that holds the data and loads the data into the
+schema.  Once executed, you don't need the query any more, so you can close the
+query editor window containing.  Don't close the connection though, you'll need
+that to run queries against the data you've just loaded.
+
+
+See below for further detail.
+
+Once you have done this for sampdb, do the exact same thing for the database
+books.
+
+
+RUNNING THE QUERIES
+
+Setup Database
+--------------
+Having opened a database connection, you should see a "SQL Editor" tab.  This
+provides facilities for retrieving queries from a file, running those queries
+and displaying those queries' results.
+
+Query files can be opened from the menu bar, under File > Open SQL Script.
+Navigate to select "setup_sampdb.sql" and click "Open".
+-   A tab will appear within the window, with text for a lot of SQL commands
+    (queries).
+-   Run these queries (commands) from the menu bar: Query > Execute (All or
+    Selection).  A subwindow should fill with a long list of command status
+    reports.
+
+These queries:
+-   Create the database 'sampdb'
+-   Create the tables within it
+-   Load those tables with data
+
+
+Checking Success
+----------------
+On Workbench, in the Schemas subwindow to the left of the query text subwindow,
+click the little yin-yang refresh symbol.  The name 'sampdb' should appear on
+the list of schemas, with a little expansion triangle to the left of the name.
+
+In Navicat or Workbench, the query 'SHOW TABLES IN sampdb' should output a list
+of tables.
+
+
+CONTACT
+-------
+
+If you have any problems or questions, please send me an email.
+
+Gordon
+gordon@practicalhorseshoeing.com
+
+
+
+

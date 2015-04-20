@@ -1,0 +1,224 @@
+SOFTWARE REQUIREMENTS
+=====================
+
+To participate in class you will have to install Navicat for MySQL or MySQL
+Workshop.  These are "client" programs that will allow you to connect to and
+work on a MySQL database server that I host for the class.
+
+A client program is not a database program per se.  It is a program that
+connects to a database server for the purpose of sending queries for execution
+and receiving the output of those queries.  If you would like to install a
+server of your own -- and I strongly recommend that you do -- instructions for
+this are provided below.  Note that people often do have some
+not-insurmountable difficulties with this installation (particularly on
+Windows).  If you do have trouble, remember, all you need for the class is the
+client.  Get that installed and I'll try to help you with the server
+installation during class breaks.
+
+Recently Windows users seem to have installed Navicat more smoothly than
+Workbench.  Your mileage may vary.
+
+
+CLIENTS
+=======
+
+Navicat for MySQL
+-----------------
+Navicat offers a free trial version of their MySQL database client for Mac OSX,
+Windows and Linux.  You can download this for your computer at this link:
+http://www.navicat.com/download/navicat-for-mysql.  Open the file and follow
+the instructions there for installation.
+
+Note that Navicat offers clients for a number of different SQL databases:
+Postgres, SQL Server, etc.  Take care to get a client for MySQL.
+
+
+MySQL Workbench
+---------------
+The people who maintain MySQL also offer a free client, MySQL Workbench, with
+versions for Mac OSX, Windows and Linux.  You can download the appropriate
+version from www.mysql.com/products/workbench.
+
+
+SERVER
+======
+
+Again: This is not necessary for class, so if you can't do it before Friday,
+don't worry.  You should, however, eventually install a server of your own so
+you can work with SQL on your own with the need for someone else's server.
+
+The MySQL server can be installed to Mac, Windows and Linux from downloads from
+mysql.com.  You will need to install the following items:
+
+-   MySQL Server (www.mysql.com/downloads/, look for "MySQL Community Server")
+-   A script that starts up the MySQL server when the computer is started
+    -   For Macs, this script is in the same installer package as the Server
+        (named MySQLStartupItem.pkg)
+
+Instructions are provided on the website.  I add some notes below.
+
+You are successfully installed if you can run MySQL Workbench and get a 'SQL
+Editor' tab on clicking the 'Open Connection to Starty Querying' box, and
+then clicking 'OK'.
+
+
+MACINTOSH
+---------
+For Macs that means dowloading two different packages, and installing two
+pieces of software from them.  Please take care to download the .dmg files,
+rather than the .tar files, the former should be much easier to install.
+
+BE CAREFUL ABOUT VERSIONS.  Verify that the version you download is compatible
+with the version of your OS.
+
+USE DMG FILES.  Macintosh users should please take care to download the .dmg
+installation files from the site, rather than the .tar files.  The .dmg files
+provide an automated installation path, which should lead you through the whole
+process.
+
+Once all that is installed, restart your computer.  You should then be able to
+create a database connection with Workbench (or Navicat, which ever you've
+installed).
+-   Open Workbench
+-   Click "Open Connection to Start Querying"
+    name for the connection, anything will do.
+-   A dialog box ("Connect to Database") opens.  Click "OK".  A window titled
+    "MySQL Workbench", with a tab labeled "SQL Editor 0", should open.
+-   At this point you can setup the sample database we'll be using in class.
+    Please see the instructions and files in the directory data.
+
+
+============================
+Troubleshooting -- Macintosh
+============================
+You (think you have) followed the installations instructions but it doesn't
+work.
+
+Check Version Compatability
+---------------------------
+-   You must install a MySQL version appropriate for your OS version.
+-   The OS version can be found by:
+    -   Clicking the Apple icon at the top left of the Desktop screen
+    -   Clicking "About This Mac"
+    -   An info box appears in the middle of your screen, the version number of
+        your OS can be found there
+-   The MySQL version can be found in the name of the file you downloaded from
+    mysql.com
+    -   That file is probably somewhere in Downloads/
+    -   Its name will include the string 'mysql'
+    -   The target OS version is in that file name.
+        -   For example, << mysql-5.5.12-osx10.6-x86_64.dmg >> is intended for
+            OSX 10.6, 64 bit.
+        -   If the MySQL package targets an OS version above yours, it won't
+            work on yours
+        -   If MySQL package targets an OS version under yours, it might or
+            might not work
+        -   I haven't seen issues with 64 bit versus 32 bit
+            -   Though if in doubt, 32 bit would work for both, so using that
+                is surest
+
+Check If Server Is Running
+--------------------------
+-   Open Activity Monitor
+    -   Applications > Utilities > Activity Monitor
+-   Look for the process 'mysqld'
+    1   Sort by "Process Name" by clicking "Process Name" in the displayed
+        table, scroll down looking for 'mysqld'
+    
+    or
+
+    2   In the 'filter' box, type 'mysql' or 'mysqld'
+        -   mysqld should appear in the results
+
+-   IF 'mysqld' doesn't appear:
+    -   The server program wasn't installed, AND / OR
+    -   The server startup script wasn't installed, AND / OR
+    -   The computer wasn't reboot after installation of those items
+
+    Carefully review and repeat those installations, restart the computer, and
+    recheck for the 'mysqld' process
+
+
+
+WINDOWS
+-------
+mysql.com has similar downloads for Windows.  Unfortunately I am less familiar
+with Windows and cannot provide as much help or guidance as for Macs.   In my
+experience people can install the software without too much difficulty, but
+occasionally run into problems that require some knowledge of Windows to
+resolve.
+
+Once you have installed the server, restart your computer.  You should then be
+able to create a database connection with Workbench (or Navicat, which ever
+you've installed).
+-   Open Workbench
+-   Click "Open Connection to Start Querying".   You will have to provide a
+    name for the connection, anything will do.
+-   A dialog box ("Connect to Database") opens.  Click "OK".  A window titled
+    "MySQL Workbench", with a tab labeled "SQL Editor 0", should open.
+-   At this point you can setup the sample database we'll be using in class.
+    Please see the instructions and files in the directory data.
+
+If you have trouble, please contact me and I'll help as best I can.
+
+
+LINUX
+-----
+MySQL is installed by default on many Linux distributions.  If it isn't on
+yours, instructions for installation are available at
+
+http://dev.mysql.com/doc/refman/5.1/en/linux-installation.html
+
+
+DATA INSTALLATION
+=================
+Once you have the server running you will probably want to load it with the
+data we will use in class.  Please go to the directory data/ packaged with
+these instructions and follow the instructions in the file "DATA_INSTALLATION".
+
+
+SOME EXPLANATORY NOTES
+----------------------
+
+If you are interested, here is some discussion of what's going on with these
+softwares.
+
+MySQL Workbench (and Navicat, or any MySQL client) provides a graphic
+"front-end" for connecting to a MySQL database program, either locally (e.g.,
+on the same computer as the software) or remotely (over a network).  It is very
+useful for making and managing those connections, and provides tools for
+writing and running queries, and handling their output.  It is NOT the database
+software.
+
+Thus the requirement for installing MySQL server.  This installation puts a
+database program on your computer so Workbench can find and connect to it.
+Workbench talks to the database program and handles its output, the database
+does the actual query-crunching.
+
+MySQL Server is different from programs like Excel or Firefox in that it is a
+"server".  It is not intended to be used directly, and doesn't have an
+interface for receiving commands from a human computer user.  Instead it
+provides "services" to other programs -- they can send it commands and get
+responses from it.  Workbench is such a program: it sends commands to MySQL,
+receives its output in response to those commands, and displays that output to
+the user.  
+
+This "server" status also drives the requirement for installing the startup
+script for MySQL Server.  It doesn't provide an icon through which you can
+launch it.  It is possible to start the server for yourself, but (on Mac) this
+involves using a command-line interface and about fifteen commands.
+
+Caveat: Be careful generalizing the above to other tools running SQL queries.
+The above applies to MySQL Server and Workbench.  SQL is a language standard,
+and there are many tools for using it.  SQL queries can be run in Microsoft
+Access, Navicat, SQLite -- it's a long list.  How these tools implement the
+standard may vary from the architecture described above for MySQL.
+
+
+CONTACT
+-------
+
+Please email me if you have any problems or questions.
+
+Gordon Agress
+gordon@practicalhorseshoeing.com
