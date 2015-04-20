@@ -1,6 +1,6 @@
 -- CONNECTING TO THE SERVER VIA CLI
 -- ——————————————————————————————————————————————————————————————————————————————————————
--- mysql --host=localhost --user=myname --password=mypass mydb
+-- mysql --host=127.0.0.1 --user=myname --password=mypass mydb
 
 -- 'database' a program for holding tables, comparable to a folder in your computer's file system
 -- 'tables' a program concept holding data about instances of a particular entity type- students, presidents, exams, etc. these data are held in records or rows.
