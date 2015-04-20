@@ -12,8 +12,8 @@
 
 ## Run some queries
 
-- `$ SHOW TABLES from books;`
-- `$ DESCRIBE books.authors;`
-- `$ SELECT COUNT(*) FROM sampdb.president;`
-- `$ SELECT last_name, first_name, birth, death FROM sampdb.president WHERE birth <= '1861-01-01' AND death >= '1865-01-01';`
-- `$ SELECT event_id,score,student.name FROM sampdb.score INNER JOIN sampdb.student ON sampdb.score.student_id = sampdb.student.student_id WHERE event_id = 3 AND score > (SELECT AVG(score) FROM sampdb.score WHERE event_id = 3 GROUP BY event_id) LIMIT 5;`
+- `mysql> SHOW TABLES from books;`
+- `mysql> DESCRIBE books.authors;`
+- `mysql> SELECT COUNT(*) FROM sampdb.president;`
+- `mysql> SELECT last_name, first_name, birth, death FROM sampdb.president WHERE birth <= '1861-01-01' AND death >= '1865-01-01';`
+- `mysql> SELECT event_id,score,student.name FROM sampdb.score INNER JOIN sampdb.student ON sampdb.score.student_id = sampdb.student.student_id WHERE event_id = 3 AND score > (SELECT AVG(score) FROM sampdb.score WHERE event_id = 3 GROUP BY event_id) LIMIT 5;`
